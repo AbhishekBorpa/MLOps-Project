@@ -7,11 +7,11 @@ Learn MLOps completely
 
 
 # git commands  
- git add .
- git commit -m "master"
- git  push origin main
+# git add .
+# git commit -m "master"
+# git  push origin main
 
 # virtual environment
-conda create  -n visa python=3.8 -y
-conda activate visa
-pip install -r requirements.txt
+# conda create  -n visa python=3.8 -y
+# conda activate visa
+# pip install -r requirements.txt
